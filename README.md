@@ -26,6 +26,7 @@
 📄 [Порівняння режимів](./01-overview/modes-comparison.md) > Auto / Pro Search / Deep Research / Labs — коли що вмикати і в чому різниця на практиці.
 
 
+
 ---
 
 
@@ -165,4 +166,12 @@
 
 [⭐ Поставте зірку якщо корисно](https://github.com/reginanka/perplexity) · [🐛 Повідомити про помилку](https://github.com/reginanka/perplexity/issues) · [💡 Запропонувати тему](https://github.com/reginanka/perplexity/issues/new)
 
+</div>
+
+---
+
+<div align="center">
+  
+[Telegram](https://t.me/Gearberry) | [YouTube](https://www.youtube.com/@Gearberry) | [Instagram](https://www.instagram.com/gearberry_) | [Facebook](https://www.facebook.com/profile.php?id=61586878866628) | [Threads](https://www.threads.com/@gearberry_)
+  
 </div>
