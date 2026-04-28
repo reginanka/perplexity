@@ -7,7 +7,6 @@
 
 [![GitHub stars](https://img.shields.io/github/stars/reginanka/perplexity?style=for-the-badge&logo=github&color=FFD700)](https://github.com/reginanka/perplexity/stargazers)
 [![Last updated](https://img.shields.io/github/last-commit/reginanka/perplexity?style=for-the-badge&color=01696f)](https://github.com/reginanka/perplexity/commits)
-[![License](https://img.shields.io/github/license/reginanka/perplexity?style=for-the-badge&color=4f98a3)](LICENSE)
 [![Ukrainian](https://img.shields.io/badge/мова-українська-blue?style=for-the-badge)](README.md)
 
 </div>
