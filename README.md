@@ -80,6 +80,10 @@
 
 📄 [Приклади автоматизації](./06-computer/automation-examples.md) > Реальні юзкейси: збір даних, заповнення форм, дослідження конкурентів.
 
+📄 [Порівняння з конкурентами](./06-computer/computer-vs-competitors.md) > Computer vs OpenAI Operator vs Claude Computer Use — таблиця відмінностей.
+
+🌠 [Браузер Comet](./06-computer/comet-browser.md) > AI-нативний браузер від Perplexity на базі Chromium — агентський браузинг, пам'ять, голосове керування і інтеграції.
+
 ---
 
 ### ⚡ [07 — API](./07-api/README.md)
